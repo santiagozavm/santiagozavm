@@ -28,4 +28,4 @@ Seguir desarrollando mis habilidades técnicas, participar en proyectos reales y
 
 ## 📫 Contacto
 - GitHub: https://github.com/santiagozavm
-- LinkedIn: *(puedes agregarlo cuando lo tengas)*
+
