@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Santiago Zavala Maldonado
 
-<!--
-**santiagozavm/santiagozavm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Licenciado en Sistemas de Información Administrativa  
+💻 Desarrollador con interés en backend, frontend, bases de datos y automatización de procesos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+Me interesa el desarrollo de soluciones que optimicen procesos mediante el uso de software y bases de datos.  
+Tengo especial interés en el manejo de información, la lógica de negocio y la mejora continua de sistemas.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+- SQL Server
+- Git & GitHub
+- C++
+- Python
+- Diagramas UML
+- Automatización de procesos
+
+---
+
+## 📌 Objetivo
+Seguir desarrollando mis habilidades técnicas, participar en proyectos reales y crecer profesionalmente dentro del área de desarrollo de software y sistemas de información.
+
+---
+
+## 📫 Contacto
+- GitHub: https://github.com/santiagozavm
+- LinkedIn: *(puedes agregarlo cuando lo tengas)*
