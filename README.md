@@ -15,6 +15,7 @@ Tengo especial interés en el manejo de información, la lógica de negocio y la
 - SQL Server
 - Git & GitHub
 - C++
+- Java
 - Python
 - Diagramas UML
 - Automatización de procesos
@@ -28,4 +29,4 @@ Seguir desarrollando mis habilidades técnicas, participar en proyectos reales y
 
 ## 📫 Contacto
 - GitHub: https://github.com/santiagozavm
-
+- Correo: s.zavala.maldonado@outlook.com
